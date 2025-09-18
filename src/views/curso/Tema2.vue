@@ -692,7 +692,7 @@ export default {
   },
   data() {
     return {
-      cuestionario: cuestionarios.tema2
+      cuestionario: cuestionarios.tema2,
     }
   },
   mounted() {

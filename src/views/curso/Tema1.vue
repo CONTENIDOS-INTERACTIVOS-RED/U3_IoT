@@ -46,22 +46,22 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/tema1/infografia1.svg', alt='', style="max-width: 1106px;").mx-auto
-              .bg-color-white.box-shadow.p-3(x="10%" y="15%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="22%" y="35%" numero="+")
                 h5 Arduino
                 p Plataforma de código abierto basada en microcontroladores, ideal para proyectos de bajo consumo y prototipos rápidos, con una amplia comunidad y bibliotecas disponibles.
-              .bg-color-white.box-shadow.p-3(x="10%" y="35%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="80%" y="15%" numero="+")
                 h5 Raspberry Pi
                 p Ordenador de placa reducida con sistema operativo completo, adecuado para proyectos más complejos que requieren procesamiento intensivo y conectividad avanzada.
-              .bg-color-white.box-shadow.p-3(x="10%" y="55%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="22%" y="70%" numero="+")
                 h5 Servicios en la nube para IoT
                 p Herramientas como AWS IoT, Azure IoT Hub o Google Cloud IoT permiten gestionar dispositivos, almacenar datos y aplicar machine learning en la nube.
-              .bg-color-white.box-shadow.p-3(x="10%" y="75%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="92%" y="55%" numero="+")
                 h5 Integración hardware-software
                 p Estrategias para asegurar una comunicación robusta entre sensores, actuadores, microcontroladores y aplicaciones.
-              .bg-color-white.box-shadow.p-3(x="90%" y="35%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="93%" y="37%" numero="+")
                 h5 Herramientas de diseño de prototipos
                 p Software como Fritzing, Tinkercad y simuladores que ayudan a visualizar y construir circuitos antes del desarrollo físico.
-              .bg-color-white.box-shadow.p-3(x="90%" y="55%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="12%" y="8%" numero="+")
                 h5 Plataformas empresariales escalables
                 p Soluciones como ThingsBoard, Kaa o Blynk para gestionar dispositivos y datos en implementaciones industriales.
 

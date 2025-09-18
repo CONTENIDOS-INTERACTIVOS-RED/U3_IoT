@@ -8,8 +8,7 @@ export default {
     preguntas: [
       {
         id: 1,
-        texto:
-          '¿Cuál es una placa de hardware popular para prototipos IoT?',
+        texto: '¿Cuál es una placa de hardware popular para prototipos IoT?',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -107,8 +106,7 @@ export default {
       },
       {
         id: 4,
-        texto:
-          'La recolección de datos en IoT se basa principalmente en:',
+        texto: 'La recolección de datos en IoT se basa principalmente en:',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -140,8 +138,7 @@ export default {
       },
       {
         id: 5,
-        texto:
-          '¿Cuál es un beneficio del análisis de datos en proyectos IoT?',
+        texto: '¿Cuál es un beneficio del análisis de datos en proyectos IoT?',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -215,8 +212,7 @@ export default {
       },
       {
         id: 2,
-        texto:
-          '¿Cuál es una ventaja del protocolo CoAP en redes IoT?',
+        texto: '¿Cuál es una ventaja del protocolo CoAP en redes IoT?',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -232,7 +228,8 @@ export default {
           },
           {
             id: 'c',
-            texto: 'Opera sobre UDP, ideal para dispositivos con pocos recursos',
+            texto:
+              'Opera sobre UDP, ideal para dispositivos con pocos recursos',
             esCorrecta: true,
           },
           {
@@ -248,8 +245,7 @@ export default {
       },
       {
         id: 3,
-        texto:
-          'Una amenaza común a la seguridad en IoT es:',
+        texto: 'Una amenaza común a la seguridad en IoT es:',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -281,7 +277,8 @@ export default {
       },
       {
         id: 4,
-        texto: '¿Qué técnica se usa para proteger los datos transmitidos en IoT?',
+        texto:
+          '¿Qué técnica se usa para proteger los datos transmitidos en IoT?',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
@@ -313,8 +310,7 @@ export default {
       },
       {
         id: 5,
-        texto:
-          '¿Por qué los dispositivos IoT suelen ser vulnerables?',
+        texto: '¿Por qué los dispositivos IoT suelen ser vulnerables?',
         imagen: '',
         barajarRespuestas: true,
         opciones: [
